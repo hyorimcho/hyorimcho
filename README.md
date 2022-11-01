@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=f783ac&height=300&section=header&text=hyorim%20cho&fontColor=212529&fontSize=80)
 
 <div align="center" style="text-align:center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyorimcho&count_bg=%23F783AC&title_bg=%23ADB5BD&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <h2> Git Stats 🖍</h2>
 <p>
 
@@ -15,21 +18,9 @@
   </a>
 </p>
 
----
-
 <h2>👇come check my velog!</h2>
 <h4> currently i posted like.. </h4>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hyocho)](https://velog.io/@hyorimm)
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyorimm)](https://velog.io/@hyorimm)
-
----
-
-<div>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyorimcho&count_bg=%23F783AC&title_bg=%23ADB5BD&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
 
 </div>
