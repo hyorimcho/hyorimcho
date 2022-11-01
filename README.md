@@ -1,14 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=f783ac&height=300&section=header&text=hyorim%20cho&fontColor=ced4da&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=f783ac&height=300&section=header&text=hyorim%20cho&fontColor=212529&fontSize=80)
 
 <div align="center" style="text-align:center">
-<h4> Git Stats 🖍</h4>
+<h2> Git Stats 🖍</h2>
 <p>
-  <a href="https://github.com/hyorimcho">
-    <img align="center" src="![hyocho stats](https://github-readme-stats.vercel.app/api?username=hyorimcho&show_icons=true)" />
-  </a>
+
+[![hyocho's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyorimcho&hide_title=true&show_icons=true)](https://github.com/hyorimcho/github-readme-stats)
+
 </p>
 
-<h4> Most Used Languages 📚</h4>
+<h2> Most Used Languages 📚</h2>
 <p>
   <a href="https://github.com/hyorimcho">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyorimcho&layout=compact&show_icons=true&show_owner=true&hide_title=true" />
@@ -17,10 +17,12 @@
 
 ---
 
-<h4>👇come check my velog!</h4>
-<h5> currently i posted like.. </h5>
+<h2>👇come check my velog!</h2>
+<h4> currently i posted like.. </h4>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyocho)](https://velog.io/@hyorimm)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hyocho)](https://velog.io/@hyorimm)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyorimm)](https://velog.io/@hyorimm)
 
 ---
 
